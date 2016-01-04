@@ -224,10 +224,9 @@ function create_config( )
     disabled_channels = {100096055},
     realm = {100096055},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    telebumper_text = [[telebumper v1
+    about_text = [[telebumper v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/kiarash14/Bumper
 
 Admins
 @kiarash_gh1 [Manager]
