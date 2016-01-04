@@ -233,7 +233,6 @@ Admins
 @Mohammadshadow [Developer]
 
 
-Special thanks to
 awkward_potato
 Siyanew
 topkecleon
