@@ -224,15 +224,15 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
+    about_text = [[bumper v1
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/kiarash14/Bumper
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@kiarash_gh1 [Manager]
+@Mohammadshadow [Developer]
+
 
 Special thanks to
 awkward_potato
@@ -241,7 +241,7 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
+@telebumper [English]
 ]],
     help_text = [[
 Commands list :
